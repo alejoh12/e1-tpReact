@@ -1,6 +1,6 @@
 # Hola Mundo 1 😁
 
-Este proyecto React sirve para ...
+Este proyecto React sirve para ver un mensaje.
 
 ## Librerias
 
